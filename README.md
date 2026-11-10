@@ -54,4 +54,4 @@ The suite natively implements:
 Demos, evaluations, support, integration with your existing
 infrastructure:
 
-**proyectos.brasara@outlook.com**
+**info@brasara.com**
